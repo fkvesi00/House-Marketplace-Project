@@ -36,6 +36,7 @@ function SignIn() {
       )
 
       if(userCredential.user){
+        console.log('!!')
         navigate('/profile')
       }  
     } catch (error) {
