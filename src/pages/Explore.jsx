@@ -22,7 +22,7 @@ function Explore() {
                   Places for rent
                 </p>
             </Link>
-            <Link to='/category/sell'>
+            <Link to='/category/sale'>
               <img 
                 src={sellCategoryImage} 
                 alt="sell" 
